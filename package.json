@@ -18,6 +18,9 @@
   "dependencies": {
     "express": "^4.12.3",
     "lodash": "^3.8.0",
-    "object-walk": "^0.1.1"
-  }
+    "node-svn-ultimate": "^0.1.1",
+    "object-walk": "^0.1.1",
+    "printf": "^0.2.1"
+  },
+  "repository": "griffiti/codemeister"
 }
