@@ -1,0 +1,23 @@
+{
+  "name": "codemeister",
+  "version": "1.0.0",
+  "description": "Source control project monitoring and merge management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scm",
+    "svn",
+    "subversion",
+    "merge",
+    "monitoring"
+  ],
+  "author": "Jonathan Griffin <griffiti93@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.12.3",
+    "lodash": "^3.8.0",
+    "object-walk": "^0.1.1"
+  }
+}
